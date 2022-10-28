@@ -1,0 +1,6 @@
+gw2_folder = 'X:\Guild Wars 2'
+
+arcdps_filename = 'd3d11.dll'
+
+[advanced]
+arcdps_url = 'https://www.deltaconnected.com/arcdps/x64/'
